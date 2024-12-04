@@ -1,7 +1,6 @@
-**Project:**
- Food Calorie Tracker
+# Food Calorie Tracker
 
----
+
 **Group Members:**
 
 * Gopesh Jha  - KU2407U402
