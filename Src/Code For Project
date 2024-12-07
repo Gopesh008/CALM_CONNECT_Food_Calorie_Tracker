@@ -6,7 +6,7 @@ healthy_food_data = pd.read_csv('Indian_Healthy_Food_Calories.csv')
 fast_food_data = pd.read_csv('Indian_Fast_Food_Calories.csv')
 
 # Number of items to display
-num_items_to_display = 5
+num_items_to_display = 21
 
 # Preparing the data
 healthy_items = healthy_food_data.head(num_items_to_display)
