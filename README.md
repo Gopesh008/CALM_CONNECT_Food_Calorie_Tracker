@@ -39,7 +39,7 @@ The objective of this project is to create a calorie tracker in which data of da
 ---
 **Summary Of The Results:**
 
-The script successfully generated graphs of provided data which allows user to compare the calories of the food easily.
+The script successfully generated graphs of provided data which allowed user to compare the calories of the food easily.
 
 ---
 **Challenges Faced:**
