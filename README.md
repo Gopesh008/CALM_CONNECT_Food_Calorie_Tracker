@@ -7,6 +7,7 @@
 * Vineet Shinde - KU2407U447
 * Shiv Gamit - KU2407U441
 * Manya Gupta - KU2407U426
+* Rudra Kadiya - KU2407U662
 
 ---
 
