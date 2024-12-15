@@ -17,8 +17,7 @@ The objective of this project is to create a calorie tracker in which data of da
 
 ---
 **Tools And Libraries Used:**
-* Visual Studio Code
-* NumPy 
+* Visual Studio Code 
 * Pandas
 * Matplotlib
 
